@@ -1,0 +1,7 @@
+{
+  "emergency_mode": false,
+  "maintenance_mode": false,
+  "last_updated": "2025-01-15T10:30:00Z",
+  "configuration_version": "1.0",
+  "notes": "emergency_mode: Complete site shutdown, maintenance_mode: Disable edits only"
+}
