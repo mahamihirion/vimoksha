@@ -1,5 +1,5 @@
 {
-  "emergency_mode": false,
+  "emergency_mode": true,
   "maintenance_mode": false,
   "last_updated": "2025-01-15T10:30:00Z",
   "configuration_version": "1.0",
